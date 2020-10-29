@@ -43,7 +43,7 @@ There is a step-by-step help feature on the front page as well as at the top rig
  - T : reset canvas transformations
 
 ## Live demo
-A hosted version of our application can currently be found on: [dbl.mboezer.com](http://dbl.mboezer.com)
+A hosted version of our application can currently be found on: [ngl-tree.klaassen.dev](https://ngl-tree.klaassen.dev/)
 
 **NOTE: Since this application uses modern technologies like web workers and WebGL 2.0 we can only guarantee optimal performance on the latest versions of Google Chrome and Mozilla Firefox.**
 
